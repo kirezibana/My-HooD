@@ -1,8 +1,7 @@
 # My HooD
 this is a web application allows you to be in the loop about everything happening in your neighborhood. 
 ## Author
-Tharcissie Idufashe
-
+kirezi 
 ## Technologies Used
 
  * Django-python
