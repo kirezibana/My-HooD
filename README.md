@@ -8,7 +8,7 @@ kirezi bana hortense
 As a user I would like to:
 
 Sign in with the application to start using.
-Set up a profile about me and
+Set up a profile about me and a general location and 
 
 
 ## Technologies Used
