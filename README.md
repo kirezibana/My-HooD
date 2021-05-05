@@ -1,5 +1,5 @@
 # My HooD
-This an app that enables to see the different hoods posted . You can join a hood, create business and post.
+this is a web application
 ## Author
 Tharcissie Idufashe
 
