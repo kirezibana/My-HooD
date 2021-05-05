@@ -13,7 +13,7 @@ As a user I would like to:
 4. Find Contact Information for the health  department and Police authorities near my neighborhood.
 5. Create Posts that will be visible to everyone in my neighborhood.
 6. Change My neighborhood when  I decide to move out.
-Only view details of a single neighborhood
+7. Only view details of a single neighborhood
 
 ## Technologies Used
 
