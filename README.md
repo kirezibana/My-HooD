@@ -1,5 +1,5 @@
 # My HooD
-this is a web application allows you to be in the loop 
+this is a web application allows you to be in the loop about everything
 ## Author
 Tharcissie Idufashe
 
