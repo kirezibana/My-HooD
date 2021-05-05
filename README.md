@@ -6,8 +6,9 @@ kirezi bana hortense
 ## User stories
 
 As a user I would like to:
+
 Sign in with the application to start using.
-Set up a profile 
+Set up a profile about me and
 
 
 ## Technologies Used
