@@ -13,6 +13,8 @@ Find a list of different businesses in my neighborhood.
 Find Contact Information for the health  department and Police authorities near my neighborhood.
 Create Posts that will be visible to everyone in my neighborhood.
 Change My neighborhood when  I decide to move out.
+Only view
+
 ## Technologies Used
 
  * Django-python
