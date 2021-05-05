@@ -13,7 +13,7 @@ kirezi bana hortense
  * bootstrap4
  
 ## contact details
-email: 
+email: hortensebana32@gmil.com
 
 ### License
 
