@@ -7,6 +7,7 @@ kirezi bana hortense
 
 As a user I would like to:
 Sign in with the application to start using.
+Set up a profile 
 
 
 ## Technologies Used
