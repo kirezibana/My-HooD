@@ -12,8 +12,8 @@ kirezi bana hortense
  * Google fonts
  * bootstrap4
  
-## Support and contact details
-If anyone need support concerning the project or anything related, just reach out to tharcissieidufashe@gmail.com
+## contact details
+email: 
 
 ### License
 
